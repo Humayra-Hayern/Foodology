@@ -1,13 +1,12 @@
 Interactive food website that allows users to search for recipes.
 
-
-
 Project must include:
-- Two web server side APIs 
 
- - A CSS framework
+- Two web server side APIs
 
-- Client-side storage to store persistent data 
+- A CSS framework
+
+- Client-side storage to store persistent data
 
 - Have a polished UI
 
@@ -18,3 +17,5 @@ Project must include:
 - Must be deployed to GitHub Pages
 
 - Must accept and respond to user input
+
+shamsi smells
